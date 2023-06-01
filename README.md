@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ForToday](https://github.com/JaimyRenji/fortoday)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Javascript**
 
 <p align="left">
 </p>
