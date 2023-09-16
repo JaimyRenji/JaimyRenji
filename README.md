@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimyrenji&label=Profile%20views&color=0e75b6&style=flat" alt="jaimyrenji" /> </p>
 
-- 🔭 I’m currently working on [ForToday](https://github.com/JaimyRenji/fortoday)
+- 🔭 I’m currently working on [Projects](https://github.com/JaimyRenji/SmartWallet)
 
 - 🌱 I’m currently learning **Javascript**
 
